@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">listagemDeTelas</string>
+    <string name="txtnome">Digite seu nome</string>
+    <string name="txtTelefone">Digite seu telefone</string>
+    <string name="txtidade">Digite sua idade</string>
+    <string name="txtEmail">Digite seu email</string>
 </resources>
