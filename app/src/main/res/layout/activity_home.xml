@@ -16,6 +16,15 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="mudarTela"
-            android:text="Button" />
+            android:text="Pessoa" />
+
+        <Button
+            android:id="@+id/btnAdd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="mudarTela"
+            android:text="Lista Pessoa" />
+
+
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

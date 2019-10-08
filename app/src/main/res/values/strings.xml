@@ -4,4 +4,7 @@
     <string name="txtTelefone">Digite seu telefone</string>
     <string name="txtidade">Digite sua idade</string>
     <string name="txtEmail">Digite seu email</string>
+    <string name="pessoaTelefone">Digite o seu telefone</string>
+    <string name="pessoaIdade">Digite o sua idade</string>
+    <string name="pessoaNome">Digite o seu nome</string>
 </resources>

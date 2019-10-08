@@ -22,7 +22,11 @@ public class HomeActivity extends AppCompatActivity {
             case R.id.btnMudar:
                 intent = new Intent(this,PessoaActivity.class);
                 startActivity(intent);
+            break;
 
+            case R.id.btnAdd:
+                intent = new Intent(this,ListaPessoaActivity.class);
+                startActivity(intent);
             break;
         }
     }
